@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinan-t
-- 👀 I’m interested in Linux, Web development, Game development,
+- 👀 I’m interested in Linux, Web development, Game development and more
 - 🌱 I’m currently learning more
 - 💞️ I’m looking to collaborate on web based technologies, game development and more
 - 📫 How to reach me?
